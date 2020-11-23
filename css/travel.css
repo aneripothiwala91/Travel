@@ -21,6 +21,7 @@ h1 {
   font-weight: bold;
   text-align:left;
   color:rgb(20, 161, 255);
+  display: block;
   }
 
 
@@ -38,4 +39,8 @@ h1 {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+
+  figure{
+    margin: 0;
   }
